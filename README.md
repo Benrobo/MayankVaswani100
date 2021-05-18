@@ -4,6 +4,24 @@
 
 I'm Mayank from India, and I do content on Development, tech and lifestyle. I really enjoy learning languages and frameworks like React and Python, I enjoy the tech community and programming as a whole. You can check out my Youtube at https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog.
 
+## Social
+<p align="center">
+  <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
+  <h3 align="center">Github README YouTube Stats</h3>
+
+  <p align="center">
+    Youtube stats badges for your Github profile README
+    <br />
+    <br />
+    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  </p>
+</p>
+
 ## Skills
 * <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 * <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
