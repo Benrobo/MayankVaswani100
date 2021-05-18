@@ -82,7 +82,7 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 - ⚡ Fun fact: If I was not a programmer I would be a US marine 
 
 ## Spotify Activity
-[![Spotify](https://novatorem-smoky-delta.vercel.app/)](https://open.spotify.com/user/r23vu010zt0x9yb5p2903243w)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r23vu010zt0x9yb5p2903243w&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=r23vu010zt0x9yb5p2903243w&redirect=true)
 
 ## Work and Experience
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankVaswani100)](https://github.com/anuraghazra/github-readme-stats)
