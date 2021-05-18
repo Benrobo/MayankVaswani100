@@ -7,17 +7,13 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 ## Social
 <p align="center">
   <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
-  <h3 align="center">Github README YouTube Stats</h3>
 
   <p align="center">
-    Youtube stats badges for your Github profile README
-    <br />
-    <br />
-    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://discord.gg/nZTfXVkwg7" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
@@ -97,4 +93,6 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 ![Profile views](https://gpvc.arturio.dev/MayankVaswani100) 
 
 ## Contact Me
+<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mayankvaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@MayankVaswa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/nZTfXVkwg7)  
+</p>
