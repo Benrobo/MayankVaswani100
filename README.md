@@ -23,7 +23,7 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 ## Work and Experience
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankVaswani100)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankVaswani100&show_icons=true)  
+![GitHub stats](https://github-readme-stats-kappa-woad.vercel.app/api?username=MayankVaswani100&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankVaswani100)  
 
