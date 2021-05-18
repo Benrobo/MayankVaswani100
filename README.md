@@ -95,6 +95,8 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [etst](https://dev.to/mayankvaswani100/etst-3j3k)
+- [test](https://dev.to/mayankvaswani100/test-4k77)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some Jokes and Memes
