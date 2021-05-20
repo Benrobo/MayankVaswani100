@@ -14,6 +14,7 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
     <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog">
       <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCMIp2dIsNlKKGw4mnbptPog&key=AIzaSyCTGJv8prPzADpsbEA51ANQrBPs2BHRuXU&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
     </a>
+    [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
   </p>
 </p>
 
