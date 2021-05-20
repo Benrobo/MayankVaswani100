@@ -7,15 +7,13 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 ## Social
 <p align="center">
   <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
-
   <p align="center">
     <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog">
-      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCMIp2dIsNlKKGw4mnbptPog&key=AIzaSyCFuf-X7OJxVVR2GZWgR7cJCAP52n2OVy8label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
+      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCMIp2dIsNlKKGw4mnbptPog&key=AIzaSyCTGJv8prPzADpsbEA51ANQrBPs2BHRuXU&label=SUBSCRIBERS&style=for-the-badge&color=red&labelColor=ce4630"/>
     </a>
     <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog">
-      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
-  <a href="https://discord.gg/nZTfXVkwg7" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCMIp2dIsNlKKGw4mnbptPog&key=AIzaSyCTGJv8prPzADpsbEA51ANQrBPs2BHRuXU&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+    </a>
   </p>
 </p>
 
@@ -58,7 +56,7 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 * <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 * <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 * <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-* <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />
+* <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 * <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
 * <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 * <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
@@ -99,12 +97,8 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
 - [test](https://dev.to/mayankvaswani100/test-4k77)
 <!-- BLOG-POST-LIST:END -->
 
-## Some Jokes and Memes
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<br />
-<br/>
-<!-- HTML -->
+## The 🤣😂😆 Corner
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="random"/>
 
 ## Contact Me
-->[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mayankvaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@MayankVaswa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/nZTfXVkwg7)<-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mayankvaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/MayankVaswani100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@MayankVaswa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/nZTfXVkwg7)
