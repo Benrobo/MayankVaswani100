@@ -9,13 +9,13 @@ I'm Mayank from India, and I do content on Development, tech and lifestyle. I re
   <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog">
-      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCMIp2dIsNlKKGw4mnbptPog&key=AIzaSyCTGJv8prPzADpsbEA51ANQrBPs2BHRuXU&label=SUBSCRIBERS&style=for-the-badge&color=red&labelColor=ce4630"/>
+      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMIp2dIsNlKKGw4mnbptPog?color=red&logo=youtube&style=for-the-badge&labelColor=ce4630">
     </a>
     <a href="https://www.youtube.com/channel/UCMIp2dIsNlKKGw4mnbptPog">
-      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCMIp2dIsNlKKGw4mnbptPog&key=AIzaSyCTGJv8prPzADpsbEA51ANQrBPs2BHRuXU&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+      <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCMIp2dIsNlKKGw4mnbptPog?color=blue&label=View%20count&logo=youtube&style=for-the-badge&labelColor=0b689d">
     </a>
     <a href="https://discord.gg/FrQkeWvnku">
-      <img src="https://img.shields.io/discord/591914197219016707.svg?label=Discord&amp;logo=Discord&amp;colorB=7289da&amp;style=for-the-badge" alt="Support Server">
+      <img alt="Discord" src="https://img.shields.io/discord/837968414232281119?color=7289da&label=Discord&logo=discord&style=for-the-badge">
     </a>
   </p>
 </p>
