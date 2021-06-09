@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Vaswni</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
-![I am GitHub Readme Generator's creator](https://github.com/MayankVaswani100/Mayankvaswani100/blob/main/github-banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/MayankVaswani100/MayankVaswani100/blob/main/GitHub-Twitter%20Banner.png)
 
 ## About Me
 
