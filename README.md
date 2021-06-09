@@ -111,8 +111,6 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [etst](https://dev.to/mayankvaswani100/etst-3j3k)
-- [test](https://dev.to/mayankvaswani100/test-4k77)
 <!-- BLOG-POST-LIST:END -->
 
 ## Spotify Activity
